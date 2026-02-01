@@ -1,0 +1,99 @@
+# =========================
+# Python bytecode / cache
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual environments
+# =========================
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+
+# =========================
+# Distribution / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# =========================
+# PyInstaller
+# =========================
+*.manifest
+*.spec
+
+# =========================
+# Unit tests / coverage
+# =========================
+.coverage
+.coverage.*
+.cache/
+pytest_cache/
+htmlcov/
+.tox/
+.nox/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+*.env
+
+# =========================
+# IDEs / Editors
+# =========================
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Framework-specific
+# =========================
+# Flask
+instance/
+.webassets-cache
+
+# Django
+db.sqlite3
+staticfiles/
+media/
+
+# =========================
+# ML / Data Science
+# =========================
+data/
+datasets/
+checkpoints/
+models/
+runs/
+wandb/
+mlruns/
+tensorboard/
+*.h5
+*.pt
+*.pth
+*.onnx

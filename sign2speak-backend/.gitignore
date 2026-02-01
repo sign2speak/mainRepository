@@ -1,0 +1,82 @@
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Runtime data
+# =========================
+pids/
+*.pid
+*.seed
+
+# =========================
+# Coverage / testing
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# Build outputs
+# =========================
+dist/
+build/
+
+# =========================
+# Cache
+# =========================
+.cache/
+.tmp/
+.temp/
+
+# =========================
+# OS / IDE
+# =========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# Firebase (if used)
+# =========================
+.firebase/
+firestore-debug.log
+ui-debug.log
+
+# =========================
+# Serverless / Frameworks
+# =========================
+.vercel/
+.netlify/
+.serverless/
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+
+# Google / Firebase secrets
+serviceAccount.json
+**/serviceAccount.json
+

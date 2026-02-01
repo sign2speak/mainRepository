@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+tensorflow
+scikit-learn
+python-multipart
