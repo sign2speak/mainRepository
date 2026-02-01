@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "14573820122",
+    "project_id": "sign2speak-da98f",
+    "storage_bucket": "sign2speak-da98f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14573820122:android:bc12438f8c2994fef66de3",
+        "android_client_info": {
+          "package_name": "com.example.sign2speak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14573820122-6i6805rrf71mlbhjgrufnm4jvd9n9a81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign2speak",
+            "certificate_hash": "e1db9d181fee928a260cb324895be6831fa4d927"
+          }
+        },
+        {
+          "client_id": "14573820122-83mk64k4md7k3tjc7ok9ac2ulggtlo9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmcDXju5Dt-4AKVLJvMSg0TZ8X45kYMbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14573820122-83mk64k4md7k3tjc7ok9ac2ulggtlo9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
